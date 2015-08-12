@@ -3,4 +3,8 @@
 - from Londonderry
 - hiker
 - works at MIT
-- ** part time photographer **
+- 
+- ** part time portrait photographer **
+- 
+- favirite drink is Jim Beam Manhattan 
+
