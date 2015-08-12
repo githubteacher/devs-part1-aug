@@ -5,6 +5,7 @@
 - Loves pizza
 - Red Sox fan
 - Thornton's Grill near Fenway Park
+- Recommend the Two Jakes chicken sandwich at Thornton's
 
 
 
