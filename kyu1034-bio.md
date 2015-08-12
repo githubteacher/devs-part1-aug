@@ -5,3 +5,6 @@
 - favorite color is green
 - favorite food is spring roll
 - favorite sport is basketball
+
+- likes all foods!
+- Sushi, salad, noodle, spring roll
