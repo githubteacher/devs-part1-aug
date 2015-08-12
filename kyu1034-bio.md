@@ -6,5 +6,5 @@
 - favorite food is spring roll
 - favorite sport is basketball
 
-- likes all foos!
-- Sushi, salad 
+- likes all foods!
+- Sushi, salad, noodle, spring roll
