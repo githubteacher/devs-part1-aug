@@ -4,4 +4,7 @@
 ** THIS IS AWESOME **
 
 * Am I doing this correctly? I dont know.
-* I am going to the cape this weekend - fantastic beach and lobster rolls await.
+* I am going to the cape this weekend - fantastic beaches and lobster rolls await.
+
+* My favorite place to eat near fenway park is Eastern Standard
+* this is my quick change
