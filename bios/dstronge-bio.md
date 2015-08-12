@@ -1,4 +1,5 @@
-##BIO
-  **bolded text**
+#BIO
+  *bolded text*
 
-  Plays bass. Digs heavy metal.
+  - Plays bass. 
+  - Digs heavy metal.
