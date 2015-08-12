@@ -6,3 +6,5 @@
 * is married to **Bill McAvinney**
 * favorite color is purple
 * favorite movie is Queen Christina
+* favorite place to eat near Fenway Park is Cleo's
+* I will learn about dealing with conflicts tomorrow

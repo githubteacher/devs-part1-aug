@@ -11,3 +11,6 @@
 - food is lasagna
 - color is a hyper-intelligent shade of blue
 - sport is soccer
+
+Matt has never eaten near Fenway Park.
+If you see a Shake Shack, eat there.
