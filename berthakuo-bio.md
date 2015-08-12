@@ -2,4 +2,5 @@
 
 - UX Designer
 - city explorer
+- reluctant foodie
 
