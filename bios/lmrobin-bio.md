@@ -2,3 +2,4 @@
 - from Connecticut shoreline
 - vacationed on Cape Cod last week
 - sandbar was awesome
+- my daughter likes to collect rocks....  Luckily, she chose lots of small ones....
