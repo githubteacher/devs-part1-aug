@@ -1,5 +1,6 @@
 ##  Githug Student is ..
 
 - From Cucuta, Colombia.
-- Now is MA.
+- Now in MA.
 - loves the swimming. 
+- enjoy playing board games.
