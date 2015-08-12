@@ -2,7 +2,8 @@
 
 - Musician
 - Twin Peaks fanatic
-
+- Loves pizza
+- Red Sox fan
 
 
 
@@ -14,8 +15,8 @@
 - list2
 - list3
 
-*bullet1
-*bullet2
-*bullet3
+* bullet1
+* bullet2
+* bullet3
 
 - **bold text**
