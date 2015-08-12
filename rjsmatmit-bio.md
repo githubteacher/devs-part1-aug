@@ -8,3 +8,5 @@
 
 - [ ] This is now a _checklist._
 - [ ] Because checklists are _great._
+
+- Enjoys Douzo in Back Bay (http://douzosushi.com/)
