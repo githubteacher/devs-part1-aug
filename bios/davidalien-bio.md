@@ -9,3 +9,4 @@
 * favorite food is BBQ
 * I hate sports
 * I stay the hell away from Fenway Park.
+* Dogs are cool.
