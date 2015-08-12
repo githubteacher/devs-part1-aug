@@ -1,5 +1,5 @@
 ## GitHub Ben is..
 
-- from VA
+- from Blacksburg VA
 - plays Soccer
 - **Go Sail**
