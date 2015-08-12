@@ -7,3 +7,4 @@
 - favorite movie is Avatar
 
 - likes all food!
+- especially sushi and italian!
