@@ -5,3 +5,4 @@
 - and works at MIT Libraries
 + loves travel, knitting, bees, nature, family and friends gathering
 - Basho Japanese Restaurant
+- I don't like hot spicy food
