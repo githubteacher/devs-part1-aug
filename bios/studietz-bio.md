@@ -4,6 +4,7 @@
 - Twin Peaks fanatic
 - Loves pizza
 - Red Sox fan
+- Thornton's Grill near Fenway Park
 
 
 
