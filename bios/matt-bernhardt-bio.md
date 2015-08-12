@@ -13,3 +13,4 @@
 - sport is soccer
 
 Matt has never eaten near Fenway Park.
+If you see a Shake Shack, eat there.
