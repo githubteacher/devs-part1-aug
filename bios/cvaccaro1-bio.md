@@ -4,3 +4,5 @@
 - Now in MA.
 - loves the swimming. 
 - enjoy playing board games.
+
+- likes seafood!!
