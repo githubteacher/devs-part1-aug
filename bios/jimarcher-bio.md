@@ -5,3 +5,4 @@
 - LOVES to race sailboats
 - LOVES to build things
 - Is a poor speller
+- Here is something I added...
