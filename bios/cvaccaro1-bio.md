@@ -6,3 +6,5 @@
 - enjoy playing board games.
 
 - likes seafood!!
+
+- work at MIT
